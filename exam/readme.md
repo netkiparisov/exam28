@@ -14,3 +14,5 @@
 
 * код роли
 * код пользователя
+
+![image](https://user-images.githubusercontent.com/90521916/209758318-6f074ad4-6579-4689-97d0-cf4272560ca2.png)
